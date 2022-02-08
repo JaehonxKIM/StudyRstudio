@@ -21,3 +21,18 @@ RStudio
 - %in% 기호 사용하기 (매칭 확인)
 - 변수 제외하기 
  - exam %>% select(-math)
+
+### 2일차
+- 요약하기 summarise()
+- 집단 별로 요약하기  group_by()
+- mpg 데이터 실습 left_join()
+- csv.exam 데이터 실습
+- 결측치 표기 (NA)
+ - is.na()  , is.omit() 함수
+- %>% 
+- outliner() , ifelse()  함수
+- 그래프 만들기
+ - boxplot()
+ - 산점도 그래프
+
+
