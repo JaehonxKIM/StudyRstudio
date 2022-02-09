@@ -34,5 +34,17 @@ RStudio
 - 그래프 만들기
  - boxplot()
  - 산점도 그래프
+- visualization
+
+### 3일차
+- visualization 이어서
+- data_analyze(foreign) install.packages("foreign")
+- 자체 데이터 분석 
+- 막대그래프에 색 입히기 
+ - ggplot(data = sex_income, aes(x = ageg, y = mean_income, fill = sex)) + 
+   geom_col() +
+   scale_x_discrete(limits = c("young", "middle","old"))
+- Text Mining
+
 
 
