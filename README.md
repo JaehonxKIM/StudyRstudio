@@ -46,5 +46,12 @@ RStudio
    scale_x_discrete(limits = c("young", "middle","old"))
 - Text Mining
 
+### 4일차 
+- Text Mining 계속
+- 대통령 연설문 단어 빈도 분석 (wordcloud)
+- 지도 시각화
+- 데이터 분석 실습 
+
+
 
 
