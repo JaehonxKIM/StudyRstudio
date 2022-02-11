@@ -50,7 +50,20 @@
 - Text Mining 계속
 - 대통령 연설문 단어 빈도 분석 (wordcloud)
 - 지도 시각화
-- 데이터 분석 실습 
+- 데이터 분석 실습
+
+### 5일차 
+- R에서 데이터 연동하기
+- 데이터셋 수집(URL)
+ - web scraping
+  - install.packages("rvest")
+  - install.packages("stringr")
+  - library(rvest)
+  - library(stringr)
+  - open API 자료 XML 형식으로 가져오기
+- 오라클 데이터베이스 가져오기와 수정
+
+ 
 
 
 
